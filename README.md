@@ -1,2 +1,3 @@
-# tailwind_cdn_uts
-# tailwind_cdn_uts
+# Codevin. Website
+
+sing tailwind framework for css, html, and alpine js (i've comment this command)
